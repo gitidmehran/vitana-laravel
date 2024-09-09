@@ -1,0 +1,1 @@
+@include('questionaries.awv.form',['list' => $list])
